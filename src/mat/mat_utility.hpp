@@ -1,5 +1,8 @@
 #pragma once
 
+#include "mat3.hpp"
+#include "mat4.hpp"
+
 namespace VML
 {
     static Mat3f IdentityMat3f() 

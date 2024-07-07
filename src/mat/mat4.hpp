@@ -1,5 +1,7 @@
 #pragma once
 
+#include "macro.hpp"
+
 namespace VML
 {
     template<typename T>
