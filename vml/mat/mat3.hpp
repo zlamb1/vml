@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-#include "vec/vec3.hpp"
+#include "vml/vec/vec3.hpp"
 #include "vml/macro.hpp"
 
 namespace VML

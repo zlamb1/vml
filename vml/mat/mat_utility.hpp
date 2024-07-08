@@ -1,7 +1,7 @@
 #pragma once
 
-#include "mat3.hpp"
-#include "mat4.hpp"
+#include "vml/mat/mat3.hpp"
+#include "vml/mat/mat4.hpp"
 
 namespace VML
 {
