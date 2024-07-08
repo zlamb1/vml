@@ -2,8 +2,8 @@
 
 #include <iostream>
 
-#include "macro.hpp"
 #include "vec/vec3.hpp"
+#include "vml/macro.hpp"
 
 namespace VML
 {

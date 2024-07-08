@@ -1,6 +1,6 @@
 #pragma once
 
-#include "macro.hpp"
+#include "vml/macro.hpp"
 
 namespace VML
 {
